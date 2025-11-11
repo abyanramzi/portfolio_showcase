@@ -28,7 +28,8 @@ Two main results were achieved:
 | Product Counting | ![Counting Example](https://raw.githubusercontent.com/abyanramzi/detectron2-retail-product-counting/master/assets/product_counting.gif) |
 | Hand Exclusion | ![Hand Filtering Example](https://raw.githubusercontent.com/abyanramzi/detectron2-retail-product-counting/master/assets/hand_exclusion.gif) |
 
-About System
+#### ⚙️ About System
+
 Detectron 2 | OpenCV | Kalman Filter | Hungarian Algorithm | Counthing Logic
 
 ### 🔹 [YOLOv7 + Thermal and RGB Camera for Poultry Counting and Classification](https://github.com/abyanramzi/yolov7-thermal-rgb-bird-detection.git)
@@ -44,15 +45,18 @@ The two prediction results below illustrate different conditions captured by the
 |----------------|-------------------|
 | <img src="https://raw.githubusercontent.com/abyanramzi/yolov7-thermal-rgb-bird-detection/master/results/predict_result_example/output_rgb.jpg" width="320"> | <img src="https://raw.githubusercontent.com/abyanramzi/yolov7-thermal-rgb-bird-detection/master/results/predict_result_example/output_thermal.jpg" width="320"> |
 
-About System
+#### ⚙️ About System
+
 YOLOv7 | OpenCV | Streamlit | Thermal and RGB Camera | Instance Segmentation
 
 ---
 
 ## 📊 Data Analysis Projects
 
-### 🔹 [Fraud Detection](https://github.com/abyanramzi/bank-transaction-fraud-detection.git)
+### 🔹 [Bank Transaction Fraud Detection Using K-Means Clustering](https://github.com/abyanramzi/bank-transaction-fraud-detection.git)
 The study case focuses on how transaction frequency, amount, and behavioral signals (such as login attempts) can indicate unusual or high-risk activity. My aims to **detect potential fraudulent banking transactions** by analyzing customer behavioral patterns using **unsupervised learning (K-Means Clustering)**
+
+#### 🖥️ Preview
 
 | Description | Preview |
 |--------------|----------|
@@ -61,13 +65,14 @@ The study case focuses on how transaction frequency, amount, and behavioral sign
 | K-Elbow Curve | ![Elbow](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/elbow_curve.png) |
 | PCA Clusters | ![PCA](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/pca_clusters.png) |
 
-About System
+#### ⚙️ About System
+
 Machine Learning | KMeans Clustering | Data Visualization | Data Analysis
 
 ### 🔹 [Game Data Analysis for Business Improvement](https://github.com/abyanramzi/game-data-analysis.git)
 Coming Soon
 
-About System
+#### ⚙️ About System
 ETL | PostgreSQL | Data Visualization | Data Analysis
 
 ---
@@ -77,27 +82,29 @@ ETL | PostgreSQL | Data Visualization | Data Analysis
 ### 🔹 [Quameaty: Application for Meat Quality Detection](https://dx.doi.org/10.31544/jtera.v7.i1.2022.107-114)
 The purpose of this study is to create a tool that is useful in detecting the quality of raw chicken meat by utilizing image processing using the InceptionV3 model and named Quameaty. 
 
-<img src="assets/quameaty/home_page.png" width="320">
-Apps Home Page
-<img src="assets/quameaty/detection_result.png" width="320">
-Detection Result Page
-<img src="assets/quameaty/history.png" width="320">
-History Page
+#### 🖥️ Preview
 
-About System
+| **Home** | **Detection Result** | **History**  
+|--------------|--------------|--------------|
+|![Home Page](assets/quameaty/home_page.png)|![Detection Result Page](assets/quameaty/detection_result.png)|![History Page](assets/quameaty/history.png)
+
+#### ⚙️ About System
+
 Tensorflow Lite | InceptionV3 | Fluter | Image Classification 
 
 ### 🔹 [PoxDaig: Application for Monkeypox Diagnosis](https://docs.google.com/presentation/d/161wSFoGKiW1TZ9xEfcEptZWjfWO7Nheu/edit?usp=sharing&ouid=113243255286445203185&rtpof=true&sd=true)
-Pada tahun 2022 kasus monkeypox di dunia kembali meningkat hingga 3413 kasus di 50 negara termasuk Indonesia. We purposed apps for diagnose monkeypox to National Scientific Writing Competition at Universitas Muhammadiyah Surakarta. Our purposed solution get winner on this competition
+In 2022, global monkeypox cases increased again, reaching **3,413 cases** across **50 countries**, including Indonesia.  
+We proposed this application for monkeypox diagnosis in the **National Scientific Writing Competition** at **Universitas Muhammadiyah Surakarta**.  
+Our proposed solution **won the competition**.
 
-<img src="assets/poxdiag/home_page.png" width="320">
-Apps Home Page
-<img src="assets/poxdiag/capturing_page.png" width="320">
-Detection Result Page
-<img src="assets/poxdiag/history.png" width="320">
-History Page
+#### 🖥️ Preview
 
-About System
+| **Home** | **Detection Result** | **History**  
+|--------------|--------------|--------------|
+|![Home Page](assets/poxdiag/home_page.png)|![Detection Result Page](assets/poxdiag/detection_result.png)|![History Page](assets/poxdiag/history.png)
+  
+#### ⚙️ About System
+
 Tensorflow Lite | InceptionV3 | Kotlin | Image Classification 
 
 ---

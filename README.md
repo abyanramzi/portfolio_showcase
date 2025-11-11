@@ -84,7 +84,7 @@ The app, named **Quameaty**, classifies meat freshness directly from camera inpu
 
 | **Home** | **Detection Result** | **History** |
 |-----------|----------------------|--------------|
-| <img src="assets/quameaty/home_page.png" width="320"/> | <img src="assets/quameaty/detection_result.png" width="320"/> | <img src="assets/quameaty/history.png" width="320"/> |
+| <img src="assets/quameaty/home_page.png" height="320"/> | <img src="assets/quameaty/detection_result.png" height="320"/> | <img src="assets/quameaty/history.png" height="320"/> |
 
 #### ⚙️ System Stack
 TensorFlow Lite | InceptionV3 | Flutter | Image Classification  
@@ -97,7 +97,7 @@ The app diagnoses **monkeypox infection** based on lesion images using deep lear
 
 | **Home** | **Detection Result** | **History** |
 |-----------|----------------------|--------------|
-| <img src="assets/poxdiag/home_page.png" width="320"/> | <img src="assets/poxdiag/detection_result.png" width="320"/> | <img src="assets/poxdiag/history.png" width="320"/> |
+| <img src="assets/poxdiag/home_page.png" height="320"/> | <img src="assets/poxdiag/detection_result.png" height="320"/> | <img src="assets/poxdiag/history.png" height="320"/> |
 
 #### ⚙️ System Stack
 TensorFlow Lite | InceptionV3 | Kotlin | Image Classification  

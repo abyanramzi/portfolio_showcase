@@ -1,58 +1,106 @@
-# 👋 Abyan's Portfolio Showcase 
+# 👋 Hi, I'm Abyan Ramzi
+**Machine Learning & IoT Developer**  
+Building intelligent systems that connect things, data, and automation.  
 ---
 
-## 🧩 Computer Vision Projects
+## 👤 About Me
+I’m a technology enthusiast passionate about **Machine Learning & IoT**.  
+My focus is bridging **research and real-world implementation** — turning ideas into functional, data-driven systems.
+
+- 🎓 Background: Telecommunication 
+- 💼 Experience: Computer Vision & IoT
+- 💼 Looking for: R&D / AI Engineer / Data-Centric roles
+- 📫 Contact: [LinkedIn](https://linkedin.com/in/abyanramzi) | [Email](abyanramzi.ta@gmail.com)
+
+---
+
+## 🧠 Machine Learning & Computer Vision Projects
 
 ### 🔹 [DETECTRON2 + SORT Tracking for Retail Product Counting](https://github.com/abyanramzi/detectron2-retail-product-counting.git)
-Developed a real-time computer vision system using DETECTRON2 and SORT for retail product detection and counting.  
-_Type: Practical Project_
+It was developed as part of a **research and development initiative** to improve an existing client solution where **hand movements were mistakenly counted** as product transitions.
+Two main results were achieved:
+
+1. ✅ **Accurate counting** of retail products moving across the line.  
+2. 🚫 **No false detection** for hand movements near the line.
+
+| Scenario | Example GIF |
+|-----------|--------------|
+| Product Counting | ![Counting Example](https://raw.githubusercontent.com/abyanramzi/detectron2-retail-product-counting/master/assets/product_counting.gif) |
+| Hand Exclusion | ![Hand Filtering Example](https://raw.githubusercontent.com/abyanramzi/detectron2-retail-product-counting/master/assets/hand_exclusion.gif) |
+
+About System
+Detectron 2 | OpenCV | Kalman Filter | Hungarian Algorithm | Counthing Logic
 
 ### 🔹 [YOLOv7 + Thermal and RGB Camera for Poultry Counting and Classification](https://github.com/abyanramzi/yolov7-thermal-rgb-bird-detection.git)
-Research focused on integrating YOLOv7 with dual (thermal and RGB) cameras to automate poultry counting.  
-_Type: Research Paper_
+This research focusing on **number of birds** and their **species identification**. We adopt **YOLOv7**, that integrated to two types of cameras:
+- **RGB Camera** — captures standard visual images.
+- **Thermal Camera** — provides infrared imaging for detection in challenging lighting conditions.  
+We introduce a **cage contour measurement technique**, which classifies cages based on the percentage of obstacles (from least to most obstructed). The performance of the detection model is then compared across both camera types under varying cage conditions.  
+The two prediction results below illustrate different conditions captured by the RGB and Thermal cameras.  
+- **RGB Prediction**: Actual condition includes 4 quails, 1 pigeon, and 5 lovebirds.  
+- **Thermal Prediction**: Actual condition includes 8 quails.  
 
-### 🔹 [Quameaty: Application for Meat Quality Detection](https://dx.doi.org/10.31544/jtera.v7.i1.2022.107-114)
-Concept application utilizing computer vision to assess meat freshness and quality through color and texture analysis.  
-_Type: Research Paper_
+| RGB Prediction | Thermal Prediction |
+|----------------|-------------------|
+| <img src="https://raw.githubusercontent.com/abyanramzi/yolov7-thermal-rgb-bird-detection/master/results/predict_result_example/output_rgb.jpg" width="320"> | <img src="https://raw.githubusercontent.com/abyanramzi/yolov7-thermal-rgb-bird-detection/master/results/predict_result_example/output_thermal.jpg" width="320"> |
 
-### 🔹 [PoxDaig: Application for Monkeypox Diagnosis](https://docs.google.com/presentation/d/161wSFoGKiW1TZ9xEfcEptZWjfWO7Nheu/edit?usp=sharing&ouid=113243255286445203185&rtpof=true&sd=true)
-Concept design of a mobile application leveraging computer vision models for early detection of Monkeypox symptoms.  
-_Type: Idea & Concept_
+About System
+YOLOv7 | OpenCV | Streamlit | Thermal and RGB Camera | Instance Segmentation
 
 ---
 
 ## 📊 Data Analysis Projects
 
 ### 🔹 [Fraud Detection](https://github.com/abyanramzi/bank-transaction-fraud-detection.git)
-Developed a fraud detection pipeline using clustering and behavioral analytics to identify abnormal transaction patterns.  
-_Type: Practical Project_
+The study case focuses on how transaction frequency, amount, and behavioral signals (such as login attempts) can indicate unusual or high-risk activity. My aims to **detect potential fraudulent banking transactions** by analyzing customer behavioral patterns using **unsupervised learning (K-Means Clustering)**
 
-### 🔹 [Game Data Analysis for Business Improvement](https://drive.google.com/example-link)
-Data-driven analysis to uncover player behavior trends and retention factors for business optimization.  
-_Type: Practical Project_
+| Description | Preview |
+|--------------|----------|
+| Correlation Matrix | ![Correlation](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_correlation.png) |
+| Behavior Scatter | ![Scatter](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/assets/eda_scatter.png) |
+| K-Elbow Curve | ![Elbow](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/assets/elbow_curve.png) |
+| PCA Clusters | ![PCA](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/assets/pca_clusters.png) |
 
-### 🔹 [AI-Driven Market Forecasting Concept](https://drive.google.com/example-link)
-Concept proposal utilizing predictive modeling and data analytics for forecasting retail demand and market movement.  
-_Type: Idea & Concept_
+About System
+Machine Learning | KMeans Clustering | Data Visualization | Data Analysis
 
----
+### 🔹 [Game Data Analysis for Business Improvement](https://github.com/abyanramzi/game-data-analysis.git)
+Coming Soon
 
-## 🌐 IoT Projects
-
-### 🔹 [Smart Energy Monitoring System](https://github.com/example-link)
-An IoT-based real-time energy monitoring system using PZEM sensors and cloud integration for analytics and visualization.  
-_Type: Practical Project_
-
-### 🔹 [Concept of Realtime Tracker Using NEO6M GPS Module](https://drive.google.com/example-link)
-Concept of a wireless real-time tracking system using NEO6M GPS and ESP microcontrollers for location monitoring.  
-_Type: Idea & Concept_
+About System
+ETL | PostgreSQL | Data Visualization | Data Analysis
 
 ---
 
-## 📫 Contact
-- **LinkedIn:** [linkedin.com/in/abyanramzi](https://linkedin.com/in/abyanramzi)  
-- **Email:** abyanramzi@example.com  
+## 🧩 Research & Purposed Concepts
+
+### 🔹 [Quameaty: Application for Meat Quality Detection](https://dx.doi.org/10.31544/jtera.v7.i1.2022.107-114)
+The purpose of this study is to create a tool that is useful in detecting the quality of raw chicken meat by utilizing image processing using the InceptionV3 model and named Quameaty. 
+
+<img src="assets/quameaty/home_page.png" width="320">
+Apps Home Page
+<img src="assets/quameaty/detection_result.png" width="320">
+Detection Result Page
+<img src="assets/quameaty/history.png" width="320">
+History Page
+
+About System
+Tensorflow Lite | InceptionV3 | Fluter | Image Classification 
+
+### 🔹 [PoxDaig: Application for Monkeypox Diagnosis](https://docs.google.com/presentation/d/161wSFoGKiW1TZ9xEfcEptZWjfWO7Nheu/edit?usp=sharing&ouid=113243255286445203185&rtpof=true&sd=true)
+Pada tahun 2022 kasus monkeypox di dunia kembali meningkat hingga 3413 kasus di 50 negara termasuk Indonesia. We purposed apps for diagnose monkeypox to National Scientific Writing Competition at Universitas Muhammadiyah Surakarta. Our purposed solution get winner on this competition
+
+<img src="assets/poxdiag/home_page.png" width="320">
+Apps Home Page
+<img src="assets/poxdiag/capturing_page.png" width="320">
+Detection Result Page
+<img src="assets/poxdiag/history.png" width="320">
+History Page
+
+About System
+Tensorflow Lite | InceptionV3 | Kotlin | Image Classification 
 
 ---
 
-> _This repository serves as a showcase of my projects, research, and ideas across AI and IoT fields._
+
+> _This repository serves as a showcase of my projects, research, and ideas across AI, Data, and IoT fields._

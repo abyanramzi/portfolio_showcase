@@ -60,10 +60,10 @@ The study case focuses on how transaction frequency, amount, and behavioral sign
 
 | **Description** | **Preview** |
 |------------------|-------------|
-| Correlation Matrix | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_correlation.png" width="320"/> |
-| Behavior Scatter | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_scatter.png" width="320"/> |
-| K-Elbow Curve | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/elbow_curve.png" width="320"/> |
-| PCA Clusters | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/pca_clusters.png" width="320"/> |
+| Correlation Matrix | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_correlation.png" width="640"/> |
+| Behavior Scatter | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_scatter.png" width="640"/> |
+| K-Elbow Curve | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/elbow_curve.png" width="640"/> |
+| PCA Clusters | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/pca_clusters.png" width="640"/> |
 
 
 #### ⚙️ About System

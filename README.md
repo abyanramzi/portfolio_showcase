@@ -57,9 +57,9 @@ The study case focuses on how transaction frequency, amount, and behavioral sign
 | Description | Preview |
 |--------------|----------|
 | Correlation Matrix | ![Correlation](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_correlation.png) |
-| Behavior Scatter | ![Scatter](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/assets/eda_scatter.png) |
-| K-Elbow Curve | ![Elbow](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/assets/elbow_curve.png) |
-| PCA Clusters | ![PCA](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/assets/pca_clusters.png) |
+| Behavior Scatter | ![Scatter](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_scatter.png) |
+| K-Elbow Curve | ![Elbow](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/elbow_curve.png) |
+| PCA Clusters | ![PCA](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/pca_clusters.png) |
 
 About System
 Machine Learning | KMeans Clustering | Data Visualization | Data Analysis

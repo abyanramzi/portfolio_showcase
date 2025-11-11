@@ -58,12 +58,13 @@ The study case focuses on how transaction frequency, amount, and behavioral sign
 
 #### 🖥️ Preview
 
-| Description | Preview |
-|--------------|----------|
-| Correlation Matrix | ![Correlation](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_correlation.png) |
-| Behavior Scatter | ![Scatter](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_scatter.png) |
-| K-Elbow Curve | ![Elbow](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/elbow_curve.png) |
-| PCA Clusters | ![PCA](https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/pca_clusters.png) |
+| **Description** | **Preview** |
+|------------------|-------------|
+| Correlation Matrix | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_correlation.png" width="320"/> |
+| Behavior Scatter | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/eda_scatter.png" width="320"/> |
+| K-Elbow Curve | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/elbow_curve.png" width="320"/> |
+| PCA Clusters | <img src="https://raw.githubusercontent.com/abyanramzi/bank-transaction-fraud-detection/master/assets/pca_clusters.png" width="320"/> |
+
 
 #### ⚙️ About System
 
@@ -84,9 +85,10 @@ The purpose of this study is to create a tool that is useful in detecting the qu
 
 #### 🖥️ Preview
 
-| **Home** | **Detection Result** | **History**  
-|--------------|--------------|--------------|
-|![Home Page](assets/quameaty/home_page.png)|![Detection Result Page](assets/quameaty/detection_result.png)|![History Page](assets/quameaty/history.png)
+| **Home** | **Detection Result** | **History** |
+|-----------|----------------------|--------------|
+| <img src="assets/quameaty/home_page.png" width="320"/> | <img src="assets/quameaty/detection_result.png" width="320"/> | <img src="assets/quameaty/history.png" width="320"/> |
+
 
 #### ⚙️ About System
 
@@ -99,9 +101,10 @@ Our proposed solution **won the competition**.
 
 #### 🖥️ Preview
 
-| **Home** | **Detection Result** | **History**  
-|--------------|--------------|--------------|
-|![Home Page](assets/poxdiag/home_page.png)|![Detection Result Page](assets/poxdiag/detection_result.png)|![History Page](assets/poxdiag/history.png)
+| **Home** | **Detection Result** | **History** |
+|-----------|----------------------|--------------|
+| <img src="assets/poxdiag/home_page.png" width="320"/> | <img src="assets/poxdiag/detection_result.png" width="320"/> | <img src="assets/poxdiag/history.png" width="320"/> |
+
   
 #### ⚙️ About System
 

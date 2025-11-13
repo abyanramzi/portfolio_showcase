@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Abyan Ramzi  
 **Machine Learning & IoT Developer**  
-Building intelligent systems that connect things, data, and automation.  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/abyanramzi)
 [![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:abyanramzi.ta@gmail.com)
+Building intelligent systems that connect things, data, and automation.  
 
 ---
 

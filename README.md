@@ -2,8 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/abyanramzi)
 [![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:abyanramzi.ta@gmail.com)
 
----
-
 ## 👤 About Me
 I’m a technology enthusiast passionate about **Building intelligent systems that connect things, data, and automation**.  
 My focus is bridging **research and real-world implementation** — turning ideas into functional, data-driven systems.

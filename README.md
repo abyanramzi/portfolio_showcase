@@ -40,6 +40,7 @@ A **cage contour measurement technique** was introduced to classify cages based 
 | RGB Prediction | Thermal Prediction |
 |----------------|-------------------|
 | <img src="https://raw.githubusercontent.com/abyanramzi/yolov7-thermal-rgb-bird-detection/master/results/predict_result_example/output_rgb.jpg" width="320"/> | <img src="https://raw.githubusercontent.com/abyanramzi/yolov7-thermal-rgb-bird-detection/master/results/predict_result_example/output_thermal.jpg" width="320"/> |
+|Actual condition includes 4 quails, 1 pigeon, and 5 lovebirds|Actual condition includes 8 quails|
 
 #### ⚙️ System Stack
 YOLOv7 | OpenCV | Streamlit | Thermal & RGB Cameras | Instance Segmentation  
